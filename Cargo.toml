@@ -1,0 +1,15 @@
+[package]
+name = "saisyo_no_keijiban"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[workspace]
+
+[dependencies]
+rocket = "0.5.0-rc.1"
+serde = { version = "1.0.126", features = ["derive"] }
+serde_json = "1.0.64"
+serde_derive = "1.0.126"
+state = { version = "0.5", features = ["tls"] }
+rocket_lamb = "0.6.0"

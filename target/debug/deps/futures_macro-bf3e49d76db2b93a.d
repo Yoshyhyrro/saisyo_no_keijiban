@@ -1,0 +1,8 @@
+C:\Users\tyuuw\Rocket\saisyo_no_keijiban\saisyo_no_keijiban\target\debug\deps\futures_macro-bf3e49d76db2b93a.dll: C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-macro-0.3.15\src\lib.rs C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-macro-0.3.15\src\executor.rs C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-macro-0.3.15\src\join.rs C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-macro-0.3.15\src\select.rs
+
+C:\Users\tyuuw\Rocket\saisyo_no_keijiban\saisyo_no_keijiban\target\debug\deps\futures_macro-bf3e49d76db2b93a.d: C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-macro-0.3.15\src\lib.rs C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-macro-0.3.15\src\executor.rs C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-macro-0.3.15\src\join.rs C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-macro-0.3.15\src\select.rs
+
+C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-macro-0.3.15\src\lib.rs:
+C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-macro-0.3.15\src\executor.rs:
+C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-macro-0.3.15\src\join.rs:
+C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-macro-0.3.15\src\select.rs:

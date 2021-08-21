@@ -1,0 +1,9 @@
+C:\Users\tyuuw\Rocket\saisyo_no_keijiban\saisyo_no_keijiban\target\debug\deps\lambda_runtime_client-a692b8b3c9a1dbf5.rmeta: C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\lambda_runtime_client-0.2.2\src\lib.rs C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\lambda_runtime_client-0.2.2\src\client.rs C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\lambda_runtime_client-0.2.2\src\error.rs
+
+C:\Users\tyuuw\Rocket\saisyo_no_keijiban\saisyo_no_keijiban\target\debug\deps\liblambda_runtime_client-a692b8b3c9a1dbf5.rlib: C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\lambda_runtime_client-0.2.2\src\lib.rs C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\lambda_runtime_client-0.2.2\src\client.rs C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\lambda_runtime_client-0.2.2\src\error.rs
+
+C:\Users\tyuuw\Rocket\saisyo_no_keijiban\saisyo_no_keijiban\target\debug\deps\lambda_runtime_client-a692b8b3c9a1dbf5.d: C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\lambda_runtime_client-0.2.2\src\lib.rs C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\lambda_runtime_client-0.2.2\src\client.rs C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\lambda_runtime_client-0.2.2\src\error.rs
+
+C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\lambda_runtime_client-0.2.2\src\lib.rs:
+C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\lambda_runtime_client-0.2.2\src\client.rs:
+C:\Users\tyuuw\scoop\persist\rustup\.cargo\registry\src\github.com-1ecc6299db9ec823\lambda_runtime_client-0.2.2\src\error.rs:

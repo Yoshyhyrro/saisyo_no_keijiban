@@ -1,0 +1,3 @@
+Generating AWS Lambda metadata file
+Writing runtime metadata to: C:\Users\tyuuw\Rocket\saisyo_no_keijiban\saisyo_no_keijiban\target\debug\runtime_release
+Runtime metadata: AWS_Lambda_Rust/0.1.2 (rustc/1.56.0-nightly-nightly)
